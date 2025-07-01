@@ -6,6 +6,12 @@
 ## 📌 Project Overview
 This Weather Insights Dashboard is designed to provide real-time and forecasted weather metrics for various cities. It includes live conditions, environmental indicators, air quality indexes, and precipitation forecasts in an intuitive and interactive visual format.
 
+## Dashboard Screenshots
+
+
+
+![image alt]([https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Home_page.png](https://github.com/Amitkmr948/Weather-Forecast-Dashboard/blob/main/Assets/Screenshot%202025-07-01%20172741.png))
+
 #### -Power BI
 
 #### -SQL
@@ -18,11 +24,6 @@ This Weather Insights Dashboard is designed to provide real-time and forecasted 
   For fetching real-time and forecasted weather data including temperature, humidity, wind speed, AQI, etc.
 
   
-## Dashboard Screenshots
-
-
-
-![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Home_page.png)
 
 
 ## 🔍 Key Features
