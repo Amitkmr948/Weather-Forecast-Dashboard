@@ -13,13 +13,11 @@ This Weather Insights Dashboard is designed to provide real-time and forecasted 
 ![image alt](https://github.com/Amitkmr948/Weather-Forecast-Dashboard/blob/main/Assets/Screenshot%202025-07-01%20172741.png)
 
 #### -Power BI
-
+  For designing and building the interactive dashboard with visual KPIs, cards, charts, and slicers.
 #### -SQL
  For structured storage and querying of historical weather data, if large datasets or automation are needed.
 #### -Excel
   Used for preprocessing, cleaning, and transforming raw weather data before importing to Power BI.
-#### -Power BI
-  For designing and building the interactive dashboard with visual KPIs, cards, charts, and slicers.
 #### -Weather API
   For fetching real-time and forecasted weather data including temperature, humidity, wind speed, AQI, etc.
 
@@ -78,6 +76,19 @@ And  Overall AQI Status
 
 -> Real-time Weather Updates
 
+## 🔮 Future Scope
+
+-> Multi-City Comparison: Enable users to compare weather and air quality across multiple cities simultaneously.
+
+-> Historical Data Integration: Incorporate past weather and AQI data to analyze trends and seasonal patterns.
+
+-> Geo-Map Visualizations: Add interactive maps to visualize temperature, rainfall, and pollution levels geographically.
+
+-> Machine Learning Forecasting: Implement predictive models to forecast weather and air quality using historical data.
+
+
+
+                              # THANK YOU!
 
 
 
