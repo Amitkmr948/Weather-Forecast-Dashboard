@@ -10,7 +10,7 @@ This Weather Insights Dashboard is designed to provide real-time and forecasted 
 
 
 
-![image alt]([https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Home_page.png](https://github.com/Amitkmr948/Weather-Forecast-Dashboard/blob/main/Assets/Screenshot%202025-07-01%20172741.png))
+![image alt](https://github.com/Amitkmr948/Weather-Forecast-Dashboard/blob/main/Assets/Screenshot%202025-07-01%20172741.png)
 
 #### -Power BI
 
